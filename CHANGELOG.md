@@ -1,5 +1,13 @@
 ## Release Notes
 
+### 1.1.5
+
+* Added minimal .npmignore to avoid publishing build folders (#13)
+
+### 1.1.4
+
+* iOS: fixes pod install issue (#10)
+
 ### 1.1.3
 
 * Android: removed Google Cloud Messaging dependency (#7, #8)
